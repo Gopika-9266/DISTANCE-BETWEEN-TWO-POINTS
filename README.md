@@ -33,7 +33,7 @@ distance=math.sqrt(((l2[0]-l1[0])**2+((l2[1]-l1[1])**2)))
 print("{:.2f}".format(distance))
 ```
 ### OUTPUT:
-![output](./distance.png)
+![output](distance.png)
 
 
 ### RESULT:
